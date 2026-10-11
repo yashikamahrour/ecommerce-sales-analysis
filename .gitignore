@@ -1,0 +1,21 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets and local configuration
+.env
+config.ini
+secrets.py
+
+# Original and generated datasets
+ecommerce.csv
+output/*.csv
+
+# Temporary files
+*.log
+.DS_Store
